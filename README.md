@@ -1,24 +1,12 @@
-Hi, I'm leoxu, an open source lover.
+Hi, I'm Leo (Jiang Xu) 👋
 
-My current main interest is in OLTP database systems.
+I'm building **[Talos](https://github.com/apilots/talos)**, an open-source AI agent runtime in Rust: durable, replayable sessions, any LLM, memory, Skills, MCP, sandboxing, and local + cloud workers. One runtime for TUI, web, desktop and SDK.
 
-I'm also a loyal fan of the Rust language and look forward to developing an OLTP database system using Rust.
+Before agents, I spent years on databases and data infrastructure:
+- Alibaba Database Research: query engine and storage for a large-scale distributed OLTP and full-text search system
+- 4Paradigm: designed and built the Sage Data Platform
+- hetudb: a database engine in Rust
 
-Currently I am working on the database engine of hetu at @[hetudb](https://github.com/hetudb).
+That background shapes Talos: agent turns are committed and replayed like a database log, so a crash or refresh resumes instead of restarting.
 
-I used to worked in the Snowberg team at Alibaba and am responsible for developing query engine and storage features.
-
-> Snowberg is a project that serves Alibaba's internal e-commerce scenarios. Built on top of MySQL sharding, it supports secondary indexes and full-text indexes (based on Lucene). It also supports materialized and full-text index table engines. Snowberg adopts a storage-computation separation architecture and is deployed in a multi-region manner. It serves various full-text search and online OLTP needs in e-commerce scenarios.
-> 
-> Snowberg based a Serverless architecture and offers features such as multi-tenant management, elastic scalability, storage-computation separation, and user-defined policies. It supports full SQL and programmable SDK capabilities. Internally, it is primarily used in OLTP scenarios where data access is performed using a programmable SDK.
-
-Before, I was responsible for the design and development of "Sage Data Platform" at 4Paradigm.
-
-You can find me at:
-
-* [GitHub](https://github.com/realxujiang)
-* [Blog](https://www.itweet.cn/)
-* [Twitter](https://twitter.com/realXuJiang)
-* [Email](realjiangxu@gmail.com)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=realxujiang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+📫 [X @realxujiang](https://x.com/realxujiang) · [Talos on X](https://x.com/_talosai) · [Blog](https://www.itweet.cn/)
