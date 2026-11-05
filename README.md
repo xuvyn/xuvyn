@@ -9,4 +9,4 @@ Before agents, I spent years on databases and data infrastructure:
 
 That background shapes Talos: agent turns are committed and replayed like a database log, so a crash or refresh resumes instead of restarting.
 
-📫 [X @realxujiang](https://x.com/realxujiang) · [Talos on X](https://x.com/_talosai) · [Blog](https://www.itweet.cn/)
+📫 [X @_xuvyn](https://x.com/_xuvyn) · [Talos on X](https://x.com/_talosai) · [Blog](https://www.itweet.cn/)
