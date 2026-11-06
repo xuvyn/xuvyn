@@ -1,4 +1,4 @@
-Hi, I'm Leo (Jiang Xu) 👋
+Hi, I'm Xuvyn 👋
 
 I'm building **[Talos](https://github.com/apilots/talos)**, an open-source AI agent runtime in Rust: durable, replayable sessions, any LLM, memory, Skills, MCP, sandboxing, and local + cloud workers. One runtime for TUI, web, desktop and SDK.
 
