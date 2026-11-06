@@ -4,8 +4,8 @@ I'm building **[Talos](https://github.com/apilots/talos)**, an open-source AI ag
 
 Before agents, I spent years on databases and data infrastructure:
 - Alibaba Database Research: query engine and storage for a large-scale distributed OLTP and full-text search system
-- 4Paradigm: designed and built the Sage Data Platform
 - hetudb: a database engine in Rust
+- Talos：AI Agent in Rust 
 
 That background shapes Talos: agent turns are committed and replayed like a database log, so a crash or refresh resumes instead of restarting.
 
